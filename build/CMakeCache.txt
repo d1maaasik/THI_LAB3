@@ -250,6 +250,9 @@ FlowerShop_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 FlowerShop_SOURCE_DIR:STATIC=D:/THI_3lb
 
+//The directory containing a CMake configuration file for Qt6.
+Qt6_DIR:PATH=Qt6_DIR-NOTFOUND
+
 
 ########################
 # INTERNAL cache entries
