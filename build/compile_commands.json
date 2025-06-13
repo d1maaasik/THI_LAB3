@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/THI_3lb/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -DFlowerShopLib_EXPORTS -ID:/THI_3lb/include -ID:/THI_3lb/app -g -std=gnu++17 -o CMakeFiles\\FlowerShopLib.dir\\src\\Flower.cpp.obj -c D:\\THI_3lb\\src\\Flower.cpp",
+  "file": "D:\\THI_3lb\\src\\Flower.cpp",
+  "output": "CMakeFiles\\FlowerShopLib.dir\\src\\Flower.cpp.obj"
+},
+{
+  "directory": "D:/THI_3lb/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -DFlowerShopLib_EXPORTS -ID:/THI_3lb/include -ID:/THI_3lb/app -g -std=gnu++17 -o CMakeFiles\\FlowerShopLib.dir\\src\\Tulip.cpp.obj -c D:\\THI_3lb\\src\\Tulip.cpp",
+  "file": "D:\\THI_3lb\\src\\Tulip.cpp",
+  "output": "CMakeFiles\\FlowerShopLib.dir\\src\\Tulip.cpp.obj"
+},
+{
+  "directory": "D:/THI_3lb/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -DFlowerShopLib_EXPORTS -ID:/THI_3lb/include -ID:/THI_3lb/app -g -std=gnu++17 -o CMakeFiles\\FlowerShopLib.dir\\src\\Rose.cpp.obj -c D:\\THI_3lb\\src\\Rose.cpp",
+  "file": "D:\\THI_3lb\\src\\Rose.cpp",
+  "output": "CMakeFiles\\FlowerShopLib.dir\\src\\Rose.cpp.obj"
+},
+{
+  "directory": "D:/THI_3lb/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -DFlowerShopLib_EXPORTS -ID:/THI_3lb/include -ID:/THI_3lb/app -g -std=gnu++17 -o CMakeFiles\\FlowerShopLib.dir\\src\\DutchTulip.cpp.obj -c D:\\THI_3lb\\src\\DutchTulip.cpp",
+  "file": "D:\\THI_3lb\\src\\DutchTulip.cpp",
+  "output": "CMakeFiles\\FlowerShopLib.dir\\src\\DutchTulip.cpp.obj"
+},
+{
+  "directory": "D:/THI_3lb/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -DFlowerShopLib_EXPORTS -ID:/THI_3lb/include -ID:/THI_3lb/app -g -std=gnu++17 -o CMakeFiles\\FlowerShopLib.dir\\src\\GardenRose.cpp.obj -c D:\\THI_3lb\\src\\GardenRose.cpp",
+  "file": "D:\\THI_3lb\\src\\GardenRose.cpp",
+  "output": "CMakeFiles\\FlowerShopLib.dir\\src\\GardenRose.cpp.obj"
+},
+{
+  "directory": "D:/THI_3lb/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -DFlowerShopLib_EXPORTS -ID:/THI_3lb/include -ID:/THI_3lb/app -g -std=gnu++17 -o CMakeFiles\\FlowerShopLib.dir\\src\\Bouquet.cpp.obj -c D:\\THI_3lb\\src\\Bouquet.cpp",
+  "file": "D:\\THI_3lb\\src\\Bouquet.cpp",
+  "output": "CMakeFiles\\FlowerShopLib.dir\\src\\Bouquet.cpp.obj"
+},
+{
+  "directory": "D:/THI_3lb/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -DFlowerShopLib_EXPORTS -ID:/THI_3lb/include -ID:/THI_3lb/app -g -std=gnu++17 -o CMakeFiles\\FlowerShopLib.dir\\app\\DutchTulipFactory.cpp.obj -c D:\\THI_3lb\\app\\DutchTulipFactory.cpp",
+  "file": "D:\\THI_3lb\\app\\DutchTulipFactory.cpp",
+  "output": "CMakeFiles\\FlowerShopLib.dir\\app\\DutchTulipFactory.cpp.obj"
+},
+{
+  "directory": "D:/THI_3lb/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -DFlowerShopLib_EXPORTS -ID:/THI_3lb/include -ID:/THI_3lb/app -g -std=gnu++17 -o CMakeFiles\\FlowerShopLib.dir\\app\\GardenRoseFactory.cpp.obj -c D:\\THI_3lb\\app\\GardenRoseFactory.cpp",
+  "file": "D:\\THI_3lb\\app\\GardenRoseFactory.cpp",
+  "output": "CMakeFiles\\FlowerShopLib.dir\\app\\GardenRoseFactory.cpp.obj"
+},
+{
+  "directory": "D:/THI_3lb/build",
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/THI_3lb/include -ID:/THI_3lb/app -g -std=gnu++17 -o CMakeFiles\\MainApp.dir\\main.cpp.obj -c D:\\THI_3lb\\main.cpp",
+  "file": "D:\\THI_3lb\\main.cpp",
+  "output": "CMakeFiles\\MainApp.dir\\main.cpp.obj"
+}
+]
